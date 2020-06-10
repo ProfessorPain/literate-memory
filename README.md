@@ -1,2 +1,0 @@
-# literate-memory
-BJAT App
